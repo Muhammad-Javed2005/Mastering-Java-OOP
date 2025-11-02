@@ -1,6 +1,6 @@
-# 🧠 Mastering OOP in Java
+#  Mastering OOP in Java
 
-## 📘 Overview
+##  Overview
 This repository is a **comprehensive and structured guide** to mastering **Object-Oriented Programming (OOP)** concepts in Java.  
 It covers everything from foundational principles to advanced implementations, presented through clear, practical examples.  
 Each topic is organized in a dedicated folder with well-commented Java programs that demonstrate real-world usage and logic flow.  
@@ -9,7 +9,7 @@ This repository is ideal for **students, beginners, and professionals** who want
 
 ---
 
-## 🧩 Key Topics Covered
+## Key Topics Covered
 
 | Folder | Topic | Description |
 |:--|:--|:--|
@@ -29,7 +29,7 @@ This repository is ideal for **students, beginners, and professionals** who want
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Muhammad-Javed2005/Mastering-OOP-in-Java.git
@@ -40,7 +40,7 @@ This repository is ideal for **students, beginners, and professionals** who want
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 By working through this repository, you will:
 - Gain a deep understanding of **OOP fundamentals** in Java.  
 - Learn to write **clean, reusable, and maintainable code**.  
@@ -49,14 +49,14 @@ By working through this repository, you will:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Language:** Java (JDK 17 or higher recommended)  
 - **Tools:** Any IDE (Eclipse, IntelliJ IDEA, VS Code)  
 - **Version Control:** Git & GitHub  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Mastering-OOP-in-Java/
 │
@@ -78,7 +78,7 @@ Mastering-OOP-in-Java/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Engr. Muhammad Javed**  
 📍 Passionate Java Developer | Data Analyst | Software Engineer  
 
@@ -96,5 +96,5 @@ If you’d like to contribute:
 
 ---
 
-## 🏆 License
+##  License
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it with proper attribution.  
